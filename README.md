@@ -11,7 +11,9 @@ This application has built for stock market prediction of TCS (https://www.tcs.c
 
 * Sample Prediction Images
   1. Linear Regression Prediction 
-    !()[prediction_images/LinearRegression_prediction.jpg]
+  
+    ![](prediction_images/LinearRegression_prediction.jpg)
       
   2. Lasso Regression Prediction
-    !()[prediction_images/Lasso_prediction.jpg]
+  
+    ![](prediction_images/Lasso_prediction.jpg)
