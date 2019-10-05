@@ -1,4 +1,4 @@
-# Stock-Market-Prediction---Regression
+# Stock-Market-Prediction-Regression-Techniques
 TCS - Stock Market Prediction using multiple regression algorithms - Yahoo Finance API
 
 This application has built for stock market prediction of TCS (https://www.tcs.com) company using linear models.
